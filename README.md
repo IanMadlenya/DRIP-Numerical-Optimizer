@@ -80,6 +80,49 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Interior Point Methodology and Algorithm
 
 
+###Spline Builder
+####Calibration Framework
+
+####Spline Builder Setup
+ * Design Objective Behind Interpolating Splines
+ * Base Formulation
+
+####B-Splines
+ * B-Spline Derivatives
+
+####Polynomial Spline Basis Function
+ * Polynomial SPline Basis Functions
+ * Bernstein Polynomial Basis Functions
+
+####Local Spline Stretches
+ * Local Interpolating/Smoothing Spline Stretches
+ * Space Curves and Loops
+
+####Spline Segment Calibration
+ * Smoothing Best Fit Splines
+ * Segment Best Fit Response with Constraint Matching
+
+####Spline Jacobian
+ * Optimizing Spline Basis Function Jacobian
+ * Spline Input Quote Sensitivity Jacobian
+
+####Shape Preserving Spline
+ * Shape Preserving Tension Spline
+ * Shape Preserving Nu Splines
+ * Alternate Tension Spline Formulations
+
+####Koch-Lyche-Kvasov Tension Splines
+
+####Smoothing Splines
+ * Penalty Minimization Risk Function
+ * Smoothing Spline Setup
+ * Ensemble Averaging vs. Basis Spline Representation
+ * Least Squares Exact Fit + Curvature + Segment Length Penalty Formulation
+ * Alternate Smootheners
+
+####Multi-dimensional Splines
+
+
 ##Contact
 
 lakshmi@synergicdesign.com
