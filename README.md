@@ -1,6 +1,6 @@
-#DRIP Numerical Optimizer
+# DRIP Numerical Optimizer
 
-**v2.66**  *13 March 2017*
+**v2.67**  *22 March 2017*
 
 DRIP Numerical Optimizer is a collection of Java libraries for Numerical Optimization and Spline Functionality.
 
@@ -11,10 +11,10 @@ DRIP Numerical Optimizer is composed of the following main libraries:
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
 
-##Features
+## Features
 
-###Numerical Optimization
-####Fixed Point Finder
+### Numerical Optimization
+#### Fixed Point Finder
  * Framework
  * Search Initialization
  * Bracketing
@@ -34,24 +34,24 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Closed Search Methods - Univariate Iterator Primitive: Brent and Zheng
  * Polynomial Root Search
 
-####Meta-heuristics
+#### Meta-heuristics
  * Properties and Classification
  * Techniques
  * Meta-heuristic Techniques in Combinatorial Problems
 
-####Convex Optimization - Problem Space Specification
+#### Convex Optimization - Problem Space Specification
  * Convex Sets and Convex Hull
  * Properties of Convex Sets/Functions
  * Convex Optimzation Problems
 
-####Numerical Optimization - Approaches and Solutions
+#### Numerical Optimization - Approaches and Solutions
  * Newton's Method in Optimization
  * Higher Dimensions
  * Wolf Conditions
  * Armijo Rule and Curvature Condition
  * Rationale for the Wolfe Conditions
 
-####Constrained Optimization
+#### Constrained Optimization
  * Definition and Description
  * General Form
  * Solution Methods
@@ -60,7 +60,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Branch and Bound: Russian Doll Search
  * Branch and Bound: Bucket Elimination
 
-####Lagrange Multipliers
+#### Lagrange Multipliers
  * Problem Formulation
  * Handling Multiple Constraints
  * Formulation via Differentiable Manifolds
@@ -68,7 +68,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Sample: Maximal Information Entropy
  * Sample: Numerical Optimization Techniques
 
-####Karush-Kuhn-Tucker Conditions
+#### Karush-Kuhn-Tucker Conditions
  * Necessary Conditions for Optimization Problems
  * Regularity Conditions or Constraint Qualifications
  * Sufficient Conditions
@@ -76,53 +76,53 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * KKT Conditions Example - Value Function
  * KKT Generalizations
 
-####Interior Point Method
+#### Interior Point Method
  * Interior Point Methodology and Algorithm
 
 
-###Spline Builder
-####Calibration Framework
+### Spline Builder
+#### Calibration Framework
 
-####Spline Builder Setup
+#### Spline Builder Setup
  * Design Objective Behind Interpolating Splines
  * Base Formulation
 
-####B-Splines
+#### B-Splines
  * B-Spline Derivatives
 
-####Polynomial Spline Basis Function
+#### Polynomial Spline Basis Function
  * Polynomial SPline Basis Functions
  * Bernstein Polynomial Basis Functions
 
-####Local Spline Stretches
+#### Local Spline Stretches
  * Local Interpolating/Smoothing Spline Stretches
  * Space Curves and Loops
 
-####Spline Segment Calibration
+#### Spline Segment Calibration
  * Smoothing Best Fit Splines
  * Segment Best Fit Response with Constraint Matching
 
-####Spline Jacobian
+#### Spline Jacobian
  * Optimizing Spline Basis Function Jacobian
  * Spline Input Quote Sensitivity Jacobian
 
-####Shape Preserving Spline
+#### Shape Preserving Spline
  * Shape Preserving Tension Spline
  * Shape Preserving Nu Splines
  * Alternate Tension Spline Formulations
 
-####Koch-Lyche-Kvasov Tension Splines
+#### Koch-Lyche-Kvasov Tension Splines
 
-####Smoothing Splines
+#### Smoothing Splines
  * Penalty Minimization Risk Function
  * Smoothing Spline Setup
  * Ensemble Averaging vs. Basis Spline Representation
  * Least Squares Exact Fit + Curvature + Segment Length Penalty Formulation
  * Alternate Smootheners
 
-####Multi-dimensional Splines
+#### Multi-dimensional Splines
 
 
-##Contact
+## Contact
 
 lakshmi@synergicdesign.com
