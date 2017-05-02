@@ -1,6 +1,6 @@
 # DRIP Numerical Optimizer
 
-**v2.67**  *22 March 2017*
+**v2.77**  *2 May 2017*
 
 DRIP Numerical Optimizer is a collection of Java libraries for Numerical Optimization and Spline Functionality.
 
